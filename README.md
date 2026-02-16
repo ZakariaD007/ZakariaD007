@@ -1,5 +1,5 @@
 # 💫 About Me:
-A junior thats Enhancing my full-stack projects and exploring new frameworks.<br>Innovative web applications or any interesting full-stack projects.
+A junior that builds enhancing full-stack projects and exploring new frameworks.<br>Innovative web applications or any interesting full-stack projects.
 
 
 ## 🌐 Socials:
